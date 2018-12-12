@@ -7,3 +7,6 @@
 [submodule "Lua-cURLv3"]
 	path = Lua-cURLv3
 	url = https://github.com/Lua-cURL/Lua-cURLv3.git
+[submodule "mbedtls"]
+	path = mbedtls
+	url = https://github.com/ARMmbed/mbedtls.git
