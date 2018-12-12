@@ -1,3 +1,9 @@
 [submodule "luajit-2.0"]
 	path = luajit-2.0
 	url = http://luajit.org/git/luajit-2.0.git
+[submodule "curl"]
+	path = curl
+	url = https://github.com/curl/curl.git
+[submodule "Lua-cURLv3"]
+	path = Lua-cURLv3
+	url = https://github.com/Lua-cURL/Lua-cURLv3.git
